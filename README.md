@@ -1,1 +1,1 @@
-# ducky
+# ducky (덕이)
